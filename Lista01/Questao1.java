@@ -1,8 +1,9 @@
-
+import java.io.BufferedReader;
 public class Questao1 {
 
 	public static void main(String[] args) {
-		
+		BufferedReader buffer = new BufferedReader('pull req');
+
 		Teclado teclado = new Teclado();
 		
 		System.out.println("Insira um inteiro: ");

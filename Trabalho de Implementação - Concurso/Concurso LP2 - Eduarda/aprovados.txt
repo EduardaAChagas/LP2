@@ -1,0 +1,600 @@
+
+ 1- 
+ Numero de inscricao: 32197
+ Candidato: Fausto Guarabira
+ Idade: 44
+ Nota: 100
+
+ 2- 
+ Numero de inscricao: 39501
+ Candidato: Juliano Vargas
+ Idade: 43
+ Nota: 100
+
+ 3- 
+ Numero de inscricao: 32667
+ Candidato: Davide Leiria
+ Idade: 37
+ Nota: 100
+
+ 4- 
+ Numero de inscricao: 35827
+ Candidato: Penélope Mainha
+ Idade: 37
+ Nota: 100
+
+ 5- 
+ Numero de inscricao: 36283
+ Candidato: Madalena Meira
+ Idade: 37
+ Nota: 100
+
+ 6- 
+ Numero de inscricao: 38316
+ Candidato: Celeste Guerra
+ Idade: 37
+ Nota: 100
+
+ 7- 
+ Numero de inscricao: 38530
+ Candidato: Bibiana Carvalhais
+ Idade: 37
+ Nota: 100
+
+ 8- 
+ Numero de inscricao: 39829
+ Candidato: Élvio Abasto
+ Idade: 29
+ Nota: 100
+
+ 9- 
+ Numero de inscricao: 34665
+ Candidato: Tércio Nascimento
+ Idade: 27
+ Nota: 100
+
+ 10- 
+ Numero de inscricao: 39652
+ Candidato: Carminda Bautista
+ Idade: 25
+ Nota: 100
+
+ 11- 
+ Numero de inscricao: 30651
+ Candidato: Enilda Alcántara
+ Idade: 23
+ Nota: 100
+
+ 12- 
+ Numero de inscricao: 38319
+ Candidato: Alípio Galvão
+ Idade: 23
+ Nota: 100
+
+ 13- 
+ Numero de inscricao: 32084
+ Candidato: Oliveira Quintero
+ Idade: 20
+ Nota: 100
+
+ 14- 
+ Numero de inscricao: 33075
+ Candidato: Peri Castro
+ Idade: 45
+ Nota: 99
+
+ 15- 
+ Numero de inscricao: 33368
+ Candidato: Maria Siqueira
+ Idade: 42
+ Nota: 99
+
+ 16- 
+ Numero de inscricao: 39741
+ Candidato: Armindo León
+ Idade: 42
+ Nota: 99
+
+ 17- 
+ Numero de inscricao: 30717
+ Candidato: Eudes Tristán
+ Idade: 40
+ Nota: 99
+
+ 18- 
+ Numero de inscricao: 34572
+ Candidato: Énia Jiménez
+ Idade: 35
+ Nota: 99
+
+ 19- 
+ Numero de inscricao: 35699
+ Candidato: Luciana Barrios
+ Idade: 31
+ Nota: 99
+
+ 20- 
+ Numero de inscricao: 36592
+ Candidato: Leônidas   Fiestas
+ Idade: 29
+ Nota: 99
+
+ 21- 
+ Numero de inscricao: 36299
+ Candidato: Henriqueta Simas
+ Idade: 27
+ Nota: 99
+
+ 22- 
+ Numero de inscricao: 33769
+ Candidato: Liliana Chagas
+ Idade: 26
+ Nota: 99
+
+ 23- 
+ Numero de inscricao: 34651
+ Candidato: Xénia Páez
+ Idade: 22
+ Nota: 99
+
+ 24- 
+ Numero de inscricao: 33952
+ Candidato: Doroteia Rabelo
+ Idade: 21
+ Nota: 99
+
+ 25- 
+ Numero de inscricao: 32622
+ Candidato: Fabiano Lustosa
+ Idade: 43
+ Nota: 98
+
+ 26- 
+ Numero de inscricao: 38429
+ Candidato: Patrício Resende
+ Idade: 41
+ Nota: 98
+
+ 27- 
+ Numero de inscricao: 38609
+ Candidato: Umbelina Castro
+ Idade: 40
+ Nota: 98
+
+ 28- 
+ Numero de inscricao: 32212
+ Candidato: Clóvis Viveros
+ Idade: 38
+ Nota: 98
+
+ 29- 
+ Numero de inscricao: 38538
+ Candidato: Reginaldo Lancastre
+ Idade: 34
+ Nota: 98
+
+ 30- 
+ Numero de inscricao: 36847
+ Candidato: Beatriz Mayor
+ Idade: 28
+ Nota: 98
+
+ 31- 
+ Numero de inscricao: 32400
+ Candidato: Fábia Simões
+ Idade: 26
+ Nota: 98
+
+ 32- 
+ Numero de inscricao: 32365
+ Candidato: Dora Nunes
+ Idade: 24
+ Nota: 98
+
+ 33- 
+ Numero de inscricao: 33656
+ Candidato: Minervina Cintra
+ Idade: 24
+ Nota: 98
+
+ 34- 
+ Numero de inscricao: 35514
+ Candidato: Osvaldo Cezimbra
+ Idade: 24
+ Nota: 98
+
+ 35- 
+ Numero de inscricao: 39540
+ Candidato: Eurico Bastos
+ Idade: 24
+ Nota: 98
+
+ 36- 
+ Numero de inscricao: 36474
+ Candidato: Fulvio Casqueira
+ Idade: 43
+ Nota: 97
+
+ 37- 
+ Numero de inscricao: 32048
+ Candidato: Anna Villar
+ Idade: 41
+ Nota: 97
+
+ 38- 
+ Numero de inscricao: 35026
+ Candidato: Vasco Bernardes
+ Idade: 41
+ Nota: 97
+
+ 39- 
+ Numero de inscricao: 38707
+ Candidato: Clarindo Caminha
+ Idade: 41
+ Nota: 97
+
+ 40- 
+ Numero de inscricao: 34441
+ Candidato: Alzira Vilas-Boas
+ Idade: 40
+ Nota: 97
+
+ 41- 
+ Numero de inscricao: 34892
+ Candidato: Urânia Fialho
+ Idade: 38
+ Nota: 97
+
+ 42- 
+ Numero de inscricao: 37077
+ Candidato: Eva Vasconcelos
+ Idade: 38
+ Nota: 97
+
+ 43- 
+ Numero de inscricao: 35060
+ Candidato: Feliciana Laranjeira
+ Idade: 34
+ Nota: 97
+
+ 44- 
+ Numero de inscricao: 32754
+ Candidato: Cássia Borges
+ Idade: 31
+ Nota: 97
+
+ 45- 
+ Numero de inscricao: 33016
+ Candidato: Ximeno Taborda
+ Idade: 31
+ Nota: 97
+
+ 46- 
+ Numero de inscricao: 33182
+ Candidato: Fausto Valgueiro
+ Idade: 30
+ Nota: 97
+
+ 47- 
+ Numero de inscricao: 32325
+ Candidato: Abel Monte
+ Idade: 29
+ Nota: 97
+
+ 48- 
+ Numero de inscricao: ﻿29985
+ Candidato: Úrsula Guerreiro
+ Idade: 48
+ Nota: 96
+
+ 49- 
+ Numero de inscricao: 36066
+ Candidato: Evandro Vale
+ Idade: 33
+ Nota: 96
+
+ 50- 
+ Numero de inscricao: 36364
+ Candidato: Alicia Villena
+ Idade: 33
+ Nota: 96
+
+ 51- 
+ Numero de inscricao: 30981
+ Candidato: Angélica Canário
+ Idade: 32
+ Nota: 96
+
+ 52- 
+ Numero de inscricao: 31765
+ Candidato: Israel Carrilho
+ Idade: 26
+ Nota: 96
+
+ 53- 
+ Numero de inscricao: 35765
+ Candidato: Óscar Martinho
+ Idade: 23
+ Nota: 96
+
+ 54- 
+ Numero de inscricao: 34134
+ Candidato: João Borja
+ Idade: 20
+ Nota: 96
+
+ 55- 
+ Numero de inscricao: 38166
+ Candidato: Inaiá Hidalgo
+ Idade: 41
+ Nota: 95
+
+ 56- 
+ Numero de inscricao: 30059
+ Candidato: Balduíno Viana
+ Idade: 38
+ Nota: 95
+
+ 57- 
+ Numero de inscricao: 38589
+ Candidato: Bibiana Henriques
+ Idade: 29
+ Nota: 95
+
+ 58- 
+ Numero de inscricao: 33324
+ Candidato: Paulina Ochoa
+ Idade: 27
+ Nota: 95
+
+ 59- 
+ Numero de inscricao: 33217
+ Candidato: Belchior Mendoça
+ Idade: 22
+ Nota: 95
+
+ 60- 
+ Numero de inscricao: 34946
+ Candidato: Carmem Nunes
+ Idade: 22
+ Nota: 95
+
+ 61- 
+ Numero de inscricao: 35176
+ Candidato: Elisabete Ipanema
+ Idade: 22
+ Nota: 95
+
+ 62- 
+ Numero de inscricao: 32859
+ Candidato: Mileide Tabosa
+ Idade: 44
+ Nota: 94
+
+ 63- 
+ Numero de inscricao: 30283
+ Candidato: Rúben Soeiro
+ Idade: 35
+ Nota: 94
+
+ 64- 
+ Numero de inscricao: 31767
+ Candidato: Rosana Fraga
+ Idade: 34
+ Nota: 94
+
+ 65- 
+ Numero de inscricao: 30278
+ Candidato: Camilo Caiado
+ Idade: 32
+ Nota: 94
+
+ 66- 
+ Numero de inscricao: 39307
+ Candidato: Lucinda Viégas
+ Idade: 32
+ Nota: 94
+
+ 67- 
+ Numero de inscricao: 39417
+ Candidato: Esmeralda Carreira
+ Idade: 29
+ Nota: 94
+
+ 68- 
+ Numero de inscricao: 39407
+ Candidato: Higino Pirassununga
+ Idade: 28
+ Nota: 94
+
+ 69- 
+ Numero de inscricao: 34371
+ Candidato: Iara Martinho
+ Idade: 27
+ Nota: 94
+
+ 70- 
+ Numero de inscricao: 32528
+ Candidato: Lúcia Bugalho
+ Idade: 23
+ Nota: 94
+
+ 71- 
+ Numero de inscricao: 35482
+ Candidato: Leonardo Igrejas
+ Idade: 19
+ Nota: 94
+
+ 72- 
+ Numero de inscricao: 39273
+ Candidato: Brenda Júdice
+ Idade: 40
+ Nota: 93
+
+ 73- 
+ Numero de inscricao: 39474
+ Candidato: Moema Camello
+ Idade: 39
+ Nota: 93
+
+ 74- 
+ Numero de inscricao: 30387
+ Candidato: Bernardina Díaz
+ Idade: 38
+ Nota: 93
+
+ 75- 
+ Numero de inscricao: 30499
+ Candidato: Dino Foquiço
+ Idade: 32
+ Nota: 93
+
+ 76- 
+ Numero de inscricao: 31193
+ Candidato: Amadeu Iglesias
+ Idade: 32
+ Nota: 93
+
+ 77- 
+ Numero de inscricao: 36121
+ Candidato: Apoena Parracho
+ Idade: 32
+ Nota: 93
+
+ 78- 
+ Numero de inscricao: 31136
+ Candidato: �?lvaro Capucho
+ Idade: 29
+ Nota: 93
+
+ 79- 
+ Numero de inscricao: 38893
+ Candidato: Irene Marinho
+ Idade: 27
+ Nota: 93
+
+ 80- 
+ Numero de inscricao: 37648
+ Candidato: Siquenique Castellano
+ Idade: 23
+ Nota: 93
+
+ 81- 
+ Numero de inscricao: 32563
+ Candidato: Jutaí Gallindo
+ Idade: 22
+ Nota: 93
+
+ 82- 
+ Numero de inscricao: 34118
+ Candidato: Renato Franco
+ Idade: 22
+ Nota: 93
+
+ 83- 
+ Numero de inscricao: 30992
+ Candidato: Adolfo Carrasqueira
+ Idade: 45
+ Nota: 92
+
+ 84- 
+ Numero de inscricao: 37267
+ Candidato: Florinda Vilhena
+ Idade: 38
+ Nota: 92
+
+ 85- 
+ Numero de inscricao: 38355
+ Candidato: Quitéria Faia
+ Idade: 38
+ Nota: 92
+
+ 86- 
+ Numero de inscricao: 30771
+ Candidato: Odilia Balsemão
+ Idade: 37
+ Nota: 92
+
+ 87- 
+ Numero de inscricao: 33852
+ Candidato: Vera Ayres
+ Idade: 36
+ Nota: 92
+
+ 88- 
+ Numero de inscricao: 37129
+ Candidato: Rafaela Barros
+ Idade: 35
+ Nota: 92
+
+ 89- 
+ Numero de inscricao: 33576
+ Candidato: Bernardina Zarco
+ Idade: 33
+ Nota: 92
+
+ 90- 
+ Numero de inscricao: 37329
+ Candidato: Bento Páez
+ Idade: 30
+ Nota: 92
+
+ 91- 
+ Numero de inscricao: 39612
+ Candidato: Anacleto Jardim
+ Idade: 27
+ Nota: 92
+
+ 92- 
+ Numero de inscricao: 33748
+ Candidato: Silvério Andrade
+ Idade: 26
+ Nota: 92
+
+ 93- 
+ Numero de inscricao: 38675
+ Candidato: Santiago Teixeira
+ Idade: 23
+ Nota: 92
+
+ 94- 
+ Numero de inscricao: 35141
+ Candidato: Hermesinda Sosa
+ Idade: 19
+ Nota: 92
+
+ 95- 
+ Numero de inscricao: 31432
+ Candidato: Adélia Laranjeira
+ Idade: 41
+ Nota: 91
+
+ 96- 
+ Numero de inscricao: 30720
+ Candidato: Liedson Carneiro
+ Idade: 40
+ Nota: 91
+
+ 97- 
+ Numero de inscricao: 31957
+ Candidato: Zacarias Valladares
+ Idade: 40
+ Nota: 91
+
+ 98- 
+ Numero de inscricao: 34750
+ Candidato: Horácio Jesús
+ Idade: 39
+ Nota: 91
+
+ 99- 
+ Numero de inscricao: 30326
+ Candidato: Olívio Pires
+ Idade: 38
+ Nota: 91
+
+ 100- 
+ Numero de inscricao: 36156
+ Candidato: Gustavo Almeida
+ Idade: 33
+ Nota: 91
